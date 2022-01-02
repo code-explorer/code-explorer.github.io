@@ -1,0 +1,38 @@
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: B.Sc. in Computer Science & Engineering
+  icon: fa-graduation-cap
+  timeframe: 2020-2024
+  institution:
+    name: Chandigarh University
+    url: "https://www.cuchd.in/"
+  takenCourses:
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 2
+    courses:
+    - name: Data Structures and Algorithm
+    - name: Database Management System
+    - name: Java Programming
+    - name: Computer Organization and Architecture
+    - name: Numerical and Optimization Techniques
+    - name: Programming in C++
+- name: Higher Secondary School Certificate
+  icon: fa-university
+  timeframe: 2018-2020
+  institution:
+    name: Sri Chaitanya Junior Kalasala
+    url: "https://srichaitanya.net/"
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 2010-2018
+  institution:
+    name: Delhi Public School
+    url: "http://dps-secunderabad.in/"

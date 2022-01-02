@@ -1,0 +1,21 @@
+# some information about you
+name: "Satwik Kambham"
+nickname: "Satwik"
+image: "images/Profile.jpg"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# Contact information. to be used in the footer
+contactInfo:
+  email: "satwik.kambham@gmail.com"
+  phone: "+919701893834"
+  github: code-explorer
+  linkedin: satwik-kambham
+
+# a summary of what I do
+summary:
+- I am a Developer
+- I work with .NET and Python
+- I love the field of AI
+- I love learning while making fun projects

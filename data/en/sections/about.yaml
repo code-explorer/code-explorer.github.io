@@ -1,0 +1,52 @@
+section:
+    name: About
+    id: About
+    enable: true
+    weight: 1
+    showOnNavbar: true
+    template: sections/about.html
+
+# Work Section
+# designation: Intern
+# company:
+#   name: Example Co.
+  # url: "https://www.example.com"
+
+summary: "I am a passionate software engineer. I create fun projects to put the concepts that I learn into practice. I mainly use .NET (along with Unity) and Python to build my projects. Sometimes, I work on freelance projects to gain experience."
+
+# Social Links
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "satwik.kambham@gmail.com"
+
+- name: GitHub
+  icon: "fab fa-github"
+  url: "https://github.com/code-explorer"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/satwik-kambham/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/KambhamSatwik"
+
+# Badges
+badges:
+    - type: soft-skill-indicator
+      name: Hard Working
+      percentage: 95
+      color: blue
+
+    - type: soft-skill-indicator
+      name: Quick Learner
+      percentage: 95
+      color: orange
+
+    - type: soft-skill-indicator
+      name: Leadership
+      percentage: 85
+      color: pink
+
+resume: "files/Resume.pdf"

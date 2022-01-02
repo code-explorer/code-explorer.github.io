@@ -1,0 +1,44 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+
+projects:
+- name: Project Manager V2
+  role: Owner
+  repo: https://github.com/code-explorer/Project-Manager-V2
+  summary: A .NET WPF desktop application that provides a ton of productivity features which helps users better organize and manage their programming projects.
+  tags: [".NET", "WPF", "LiteDB"]
+
+- name: Musico
+  role: Contributor
+  repo: https://github.com/code-explorer/Music-Store-Page
+  summary: A .NET WPF desktop application that provides a ton of productivity features which helps users better organize and manage their programming projects.
+  tags: ["Node.js", "SQLite", "HTML", "CSS", "JavaScript"]
+
+- name: Break Timer
+  role: Owner
+  repo: https://github.com/code-explorer/Break-Timer
+  summary: A break timer created using the electron framework.
+  tags: ["Electron.js", "HTML", "CSS", "JavaScript"]
+
+- name: State Space Search
+  role: Owner
+  repo: https://github.com/code-explorer/State-Space-Search
+  summary: Implementations of state space search in various problems.
+  tags: [".NET", "C#", "Unity"]
+
+- name: Captionator
+  role: Owner
+  repo: https://github.com/code-explorer/Captionator
+  summary: Live speech to text using vosk.
+  tags: ["Python", "Vosk"]
+
+- name: Personal Website
+  role: Owner
+  repo: https://github.com/code-explorer/code-explorer.github.io
+  summary: Personal portfolio website created using Hugo.
+  tags: ["Hugo"]
