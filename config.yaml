@@ -11,6 +11,8 @@ languages:
     languageName: English
     weight: 1
 
+googleAnalytics: G-FJHSK5S54P
+
 # Control TOC depth for blog
 # markup:
 #   tableOfContents:
