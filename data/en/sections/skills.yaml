@@ -8,44 +8,44 @@ section:
 
 skills:
 - name: .NET
-  logo: "images/sections/skills/NET.svg"
+  logo: "/images/sections/skills/NET.svg"
   summary: "Capable of building WPF desktop applications and console applications using C# and XAML."
   url: "https://dotnet.microsoft.com/"
 
 - name: Python
-  logo: "images/sections/skills/Python.svg"
-  summary: "Used as main language for data science and machine learning. Capable of writing automation scipts."
+  logo: "/images/sections/skills/Python.svg"
+  summary: "Used as main language for data science and machine learning. Capable of writing automation scripts."
   url: "https://www.python.org/"
 
 - name: Unity
-  logo: "images/sections/skills/Unity.svg"
+  logo: "/images/sections/skills/Unity.svg"
   summary: "Used mainly for integrating AI into various games. Capable of creating basic games."
   url: "https://unity.com/"
 
 - name: Git & GitHub
-  logo: "images/sections/skills/Git.svg"
+  logo: "/images/sections/skills/Git.svg"
   summary: "Experience with git version control. Some experience with GitHub actions."
   url: "https://git-scm.com/"
 
 - name: Java
-  logo: "images/sections/skills/Java.svg"
+  logo: "/images/sections/skills/Java.svg"
   summary: "Know basic Java programming and object oriented principles. Used mainly for problem solving and competitive programming."
   url: "https://www.java.com/"
 
 - name: C/C++
-  logo: "images/sections/skills/C++.svg"
+  logo: "/images/sections/skills/C++.svg"
   summary: "Know basic C/C++ programming languages. Used mainly for problem solving and competitive programming"
 
 - name: SQL
-  logo: "images/sections/skills/SQLite.svg"
+  logo: "/images/sections/skills/SQLite.svg"
   summary: "Have experience using [SQLite](https://www.sqlite.org/index.html) (Relational) and [LiteDB](https://www.litedb.org/) (NoSQL) to store data."
 
 - name: Web Development and Node.js
-  logo: "images/sections/skills/Nodejs.svg"
+  logo: "/images/sections/skills/Nodejs.svg"
   summary: "Have experience developing full stack web applications."
   url: "https://nodejs.org/"
 
 - name: Electron.js
-  logo: "images/sections/skills/Electron.svg"
+  logo: "/images/sections/skills/electron.svg"
   summary: "Have experience making simple desktop applications."
   url: "https://www.electronjs.org/"
