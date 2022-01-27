@@ -34,6 +34,11 @@ socialLinks:
 
 # Badges
 badges:
+    - type: certification
+      name: Microsoft Learn Student Ambassador
+      url: "https://studentambassadors.microsoft.com/certificate/30078c6f-b009-45d0-b3f3-b8fbb97e49cc"
+      badge: "./files/MLSABadge.png"
+
     - type: soft-skill-indicator
       name: Hard Working
       percentage: 95
@@ -43,10 +48,5 @@ badges:
       name: Quick Learner
       percentage: 95
       color: orange
-
-    - type: soft-skill-indicator
-      name: Leadership
-      percentage: 85
-      color: pink
 
 resume: "files/Resume.pdf"

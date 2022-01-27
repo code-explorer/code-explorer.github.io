@@ -9,7 +9,7 @@ section:
 skills:
 - name: .NET
   logo: "/images/sections/skills/NET.svg"
-  summary: "Capable of building WPF desktop applications and console applications using C# and XAML."
+  summary: "Capable of building desktop applications with WPF and mobile applications using Xamarin."
   url: "https://dotnet.microsoft.com/"
 
 - name: Python
