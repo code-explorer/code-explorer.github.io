@@ -5,4 +5,7 @@ customMenus:
 - name: Blog
   url: https://satwikkambham.blogspot.com/
 
+- name: Events
+  url: https://code-explorer.github.io/events/
+
 copyright: © 2022 Copyright.
