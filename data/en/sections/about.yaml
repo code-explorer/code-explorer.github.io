@@ -36,13 +36,13 @@ socialLinks:
 badges:
     - type: certification
       name: Microsoft Learn Student Ambassador
+      url: "#"
+      badge: "./files/GSoC-Badge.png"
+
+    - type: certification
+      name: Microsoft Learn Student Ambassador
       url: "https://studentambassadors.microsoft.com/certificate/30078c6f-b009-45d0-b3f3-b8fbb97e49cc"
       badge: "./files/MLSABadge.png"
-
-    - type: soft-skill-indicator
-      name: Hard Working
-      percentage: 95
-      color: blue
 
     - type: soft-skill-indicator
       name: Quick Learner

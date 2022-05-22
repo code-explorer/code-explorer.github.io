@@ -2,11 +2,23 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 5
+  weight: 3
   showOnNavbar: true
 
 
 projects:
+- name: TARDIS
+  role: Contributor
+  repo: https://github.com/tardis-sn/tardis
+  summary: TARDIS is a tool that creates synthetic observations (spectra) for exploding stars (supernovae).
+  tags: ["Python", "Open Source", "GSoC"]
+
+- name: Learning Platform
+  role: Contributor
+  repo: https://github.com/code-explorer/learning_platform
+  summary: A Flutter cross-platform application to teach new students the basic concepts of programming.
+  tags: ["Flutter"]
+
 - name: Project Manager V2
   role: Owner
   repo: https://github.com/code-explorer/Project-Manager-V2

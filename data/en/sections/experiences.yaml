@@ -1,0 +1,22 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+# Your experiences
+experiences:
+- company:
+    name: Google Summer of Code
+    url: "https://summerofcode.withgoogle.com/"
+    # company overview
+    overview: Google Summer of Code is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
+  positions:
+  - designation: Open Source Contributor
+    start: June 2022
+    end: Sept 2022
+    responsibilities:
+    - Contributing to TARDIS open source project.
+    - Adding feature of resuming TARDIS Simulations from HDF.
