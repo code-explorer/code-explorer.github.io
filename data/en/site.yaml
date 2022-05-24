@@ -3,7 +3,7 @@ description: Satwik Kambham's Website
 
 customMenus:
 - name: Blog
-  url: https://satwikkambham.blogspot.com/
+  url: https://code-explorer.github.io/blog/
 
 - name: Events
   url: https://code-explorer.github.io/events/
