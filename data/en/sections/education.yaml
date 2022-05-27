@@ -18,6 +18,8 @@ degrees:
     showGrades: false
     collapseAfter: 2
     courses:
+    - name: Software Engineering
+    - name: Computer Networks
     - name: Data Structures and Algorithm
     - name: Database Management System
     - name: Java Programming
